@@ -1,0 +1,30 @@
+_repo: Rimas_35407
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitre, Bartolomé
+    alias: Mitre, Bartolome
+    birthdate: 1821
+    deathdate: 1906
+    gutenberg_agent_id: '37653'
+    url: http://www.gutenberg.org/2009/agents/37653
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Bartolom%C3%A9_Mitre
+    - http://es.wikipedia.org/wiki/Bartolom%C3%A9_Mitre
+description: ''
+gutenberg_issued: '2011-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35407'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Rimas
+url: http://www.gutenberg.org/ebooks/35407
